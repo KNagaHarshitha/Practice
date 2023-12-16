@@ -22,8 +22,7 @@ class BloodGrp
             }
         }
         int b=Math.max(ca,cb);
-        System.out.println("The maximum chain:"+(c1+b));
+        System.out.println(c1+b);
 
     }
 }
-
